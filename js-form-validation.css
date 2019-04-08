@@ -1,0 +1,68 @@
+
+h1 {
+margin-left: 70px;
+}
+
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
+
+div.container{
+width: auto;
+height: auto;
+margin-left: 30%;
+font-family: 'Raleway', sans-serif;
+}
+div.main{
+width: auto;
+padding: 10px 50px 25px;
+border: 2px solid gray;
+border-radius: 10px;
+font-family: raleway;
+float:left;
+margin-top:50px;
+}
+
+form ul li label{
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 10px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 150px;
+}
+
+[type="submit"] {
+clear: left;
+margin: 20px 0 0 10px;
+font-size:18px
+
+font-size: 16px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 1px solid #e5a900;
+color: #4E4D4B;
+font-weight: bold;
+cursor: pointer;
+width: 100%;
+border-radius: 5px;
+padding: 10px 0;
+outline:none;
+}
+
+p {
+margin-left: 70px;
+font-weight: bold;
+}
